@@ -1,0 +1,6 @@
+diffusers[torch]
+onnxruntime
+safetensors
+torch
+transformers
+xformers
